@@ -2,7 +2,7 @@
 
 <table>
 
-  <thead width="100%>
+  <thead>
     <td width="25%" align="center">
       <a href="https://zed.ink">个人主页</a>
     </td>
