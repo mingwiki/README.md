@@ -24,4 +24,5 @@
 ![](https://img.shields.io/badge/pug-593830?style=for-the-badge&logo=pug)
 ![](https://img.shields.io/badge/vite-562a82?style=for-the-badge&logo=vite)
 
-<img align="center" src="https://user-images.githubusercontent.com/7548568/160105386-e5e3e864-3c06-4c76-8d49-1d5fae503ea0.gif" height=200><img align="center" src="https://count.getloli.com/get/@:mingwiki" alt=":mingwiki">
+<img align="center" src="https://user-images.githubusercontent.com/7548568/160111511-6a3fc93a-f987-487d-bdc6-a1608cb2afa2.gif" height=100><img align="center" src="https://count.getloli.com/get/@:mingwiki" alt=":mingwiki" height=100>
+
