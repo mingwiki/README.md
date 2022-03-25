@@ -10,7 +10,7 @@
           <a href="https://journal.zed.ink">< 个人博客 /></a>
         </td>
         <td align="center" nowrap>
-          <a href="https://zed.ink/CV/">< 个人简历 /></a>
+          <a href="https://zed.ink/cv/">< 个人简历 /></a>
         </td>
         <td align="center" nowrap>
           <a href="https://codepen.io/mingwiki">< CodePen /></a>
