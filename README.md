@@ -1,10 +1,11 @@
-# 付明, Web Developer <a href="https://journal.zed.ink"><img align="center" src="https://img.shields.io/badge/个人博客-175b8c?style=for-the-badge&logo=hexo"></a><a href="https://zed.ink/cv/"><img align="center" src="https://img.shields.io/badge/个人简历-175b8c?style=for-the-badge&logo=github"></a>
+# 付明, Web Developer <a href="https://journal.zed.ink"><img align="center" src="https://img.shields.io/badge/个人博客-395060?style=for-the-badge&logo=githubpages"></a><a href="https://zed.ink/cv/"><img align="center" src="https://img.shields.io/badge/个人简历-395060?style=for-the-badge&logo=github"></a>
 
 ![](https://img.shields.io/badge/OS-Debian-red?style=for-the-badge&logo=debian)
 ![](https://img.shields.io/badge/IDE-VScode-blue?style=for-the-badge&logo=visualstudiocode)
 ![](https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2)
 ![](https://img.shields.io/badge/vim-2bc451?style=for-the-badge&logo=vim)
-![](https://img.shields.io/badge/chrome-FBBF11?style=for-the-badge&logo=googlechrome)
+![](https://img.shields.io/badge/chrome-3364b2?style=for-the-badge&logo=googlechrome)
+![](https://img.shields.io/badge/firefox-F7A902?style=for-the-badge&logo=firefox)
 
 ![](https://img.shields.io/badge/ES6-CEB331?style=for-the-badge&logo=javascript)
 ![](https://img.shields.io/badge/nodejs-397034?style=for-the-badge&logo=node.js)
@@ -13,7 +14,7 @@
 ![](https://img.shields.io/badge/bootstrap-FDF1FF?style=for-the-badge&logo=bootstrap)
 ![](https://img.shields.io/badge/scss-b7457c?style=for-the-badge&logo=sass)
 ![](https://img.shields.io/badge/html5-bf4122?style=for-the-badge&logo=html5)
-![](https://img.shields.io/badge/markdown-000000?style=for-the-badge&logo=markdown)
+![](https://img.shields.io/badge/reveal-918628?style=for-the-badge&logo=reveal.js)
 
 ![](https://img.shields.io/badge/docker-2CB7EC?style=for-the-badge&logo=docker)
 ![](https://img.shields.io/badge/openresty-74C053?style=for-the-badge&logo=nginx)
