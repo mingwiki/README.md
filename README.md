@@ -1,4 +1,4 @@
-# 付明, Web Developer <a href="https://journal.zed.ink"><img align="center" src="https://img.shields.io/badge/个人博客-395060?style=for-the-badge&logo=githubpages"></a><a href="https://zed.ink/cv/"><img align="center" src="https://img.shields.io/badge/个人简历-395060?style=for-the-badge&logo=github"></a>
+# 付明, Web Developer <a href="https://journal.zed.ink"><img align="center" src="https://img.shields.io/badge/博客-395060?style=for-the-badge&logo=githubpages"></a><a href="https://zed.ink/cv/"><img align="center" src="https://img.shields.io/badge/简历-395060?style=for-the-badge&logo=github"></a><a href="https://leetcode-cn.com/u/mingwiki/"><img align="center" src="https://img.shields.io/badge/leet-395060?style=for-the-badge&logo=leetcode"></a>
 
 ![](https://img.shields.io/badge/os-Debian-red?style=for-the-badge&logo=debian)
 ![](https://img.shields.io/badge/ide-VScode-blue?style=for-the-badge&logo=visualstudiocode)
