@@ -5,7 +5,7 @@
 ![](https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2)
 ![](https://img.shields.io/badge/vim-2bc451?style=for-the-badge&logo=vim)
 ![](https://img.shields.io/badge/chrome-3364b2?style=for-the-badge&logo=googlechrome)
-![](https://img.shields.io/badge/firefox-F7A902?style=for-the-badge&logo=firefox)
+![](https://img.shields.io/badge/ffmpeg-158300?style=for-the-badge&logo=ffmpeg)
 
 ![](https://img.shields.io/badge/ES6-CEB331?style=for-the-badge&logo=javascript)
 ![](https://img.shields.io/badge/nodejs-397034?style=for-the-badge&logo=node.js)
