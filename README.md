@@ -1,4 +1,4 @@
-# 付明, Web Developer 
+# 付明, Web Developer <a href="https://journal.zed.ink"><img align="center" src="https://img.shields.io/badge/个人博客-175b8c?style=for-the-badge&logo=hexo"></a><a href="https://zed.ink/cv/"><img align="center" src="https://img.shields.io/badge/个人简历-175b8c?style=for-the-badge&logo=github"></a>
 
 ![](https://img.shields.io/badge/OS-Debian-red?style=for-the-badge&logo=debian)
 ![](https://img.shields.io/badge/IDE-VScode-blue?style=for-the-badge&logo=visualstudiocode)
@@ -24,35 +24,4 @@
 ![](https://img.shields.io/badge/pug-593830?style=for-the-badge&logo=pug)
 ![](https://img.shields.io/badge/vite-562a82?style=for-the-badge&logo=vite)
 
-
-<table align="center">
-  <tbody>
-    <tr>
-      <td align="center" nowrap>
-        <a href="https://zed.ink">
-          < 个人主页 />
-        </a>
-      </td>
-      <td align="center" nowrap>
-        <a href="https://journal.zed.ink">
-          < 个人博客 />
-        </a>
-      </td>
-      <td align="center" nowrap>
-        <a href="https://zed.ink/cv/">
-          < 个人简历 />
-        </a>
-      </td>
-      <td align="center" nowrap>
-        <a href="https://codepen.io/mingwiki">
-          < CodePen />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td colspan=4 align="center" nowrap>
-        <img src="https://count.getloli.com/get/@:mingwiki" alt=":mingwiki">
-      </td>
-    </tr>
-  </tbody>
-</table>
+<img align="center" src="https://user-images.githubusercontent.com/7548568/160105386-e5e3e864-3c06-4c76-8d49-1d5fae503ea0.gif" height=200><img align="center" src="https://count.getloli.com/get/@:mingwiki" alt=":mingwiki">
