@@ -28,5 +28,3 @@
 
 [//]: ![](https://img.shields.io/badge/vite-562a82?style=for-the-badge&logo=vite)
 
-<img align="center" src="https://user-images.githubusercontent.com/7548568/160111511-6a3fc93a-f987-487d-bdc6-a1608cb2afa2.gif" width=80%>
-
