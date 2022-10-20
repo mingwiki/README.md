@@ -1,4 +1,6 @@
-# 付明,Web前端开发 <a href="https://zed.ink/cv/"><img align="center" src="https://img.shields.io/badge/查看我的简历-395060?style=for-the-badge&logo=github"></a> 
+# 付明,Web前端开发 <a href="https://zed.ink/cv/"><img align="center" src="https://img.shields.io/badge/查看我的简历-395060?style=for-the-badge&logo=github"></a>  
+
+![mingwiki's GitHub stats](https://github-readme-stats.vercel.app/api?username=mingwiki&show_icons=true)
 
 ![](https://img.shields.io/badge/os-Debian-red?style=for-the-badge&logo=debian)![](https://img.shields.io/badge/ide-VScode-blue?style=for-the-badge&logo=visualstudiocode)![](https://img.shields.io/badge/vim-2bc451?style=for-the-badge&logo=vim)![](https://img.shields.io/badge/chrome-3366b7?style=for-the-badge&logo=google-chrome)![](https://img.shields.io/badge/firefox-d66133?style=for-the-badge&logo=firefox)
 
