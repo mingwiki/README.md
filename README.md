@@ -1,4 +1,4 @@
-![mingwiki's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mingwiki&show_icons=true&theme=radical)
+![mingwiki's GitHub stats](https://github-readme-stats.vercel.app/api?username=mingwiki&show_icons=true&theme=radical)
 
 ![](https://img.shields.io/badge/os-Debian-red?style=for-the-badge&logo=debian)![](https://img.shields.io/badge/ide-VScode-blue?style=for-the-badge&logo=visualstudiocode)![](https://img.shields.io/badge/vim-2bc451?style=for-the-badge&logo=vim)![](https://img.shields.io/badge/chrome-3366b7?style=for-the-badge&logo=google-chrome)![](https://img.shields.io/badge/firefox-d66133?style=for-the-badge&logo=firefox)
 
