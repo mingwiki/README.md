@@ -1,6 +1,6 @@
 ![mingwiki's GitHub stats](https://github-readme-stats.vercel.app/api?username=mingwiki&show_icons=true&theme=radical)
 
-![](https://img.shields.io/badge/VScode-blue?style=for-the-badge&logo=visualstudiocode)![](https://img.shields.io/badge/neovim-2bc451?style=for-the-badge&logo=neovim)![](https://img.shields.io/badge/chrome-3366b7?style=for-the-badge&logo=google-chrome)![](https://img.shields.io/badge/Debian-red?style=for-the-badge&logo=debian)![](https://img.shields.io/badge/Fonts-000b1d?style=for-the-badge&logo=Adobe-Fonts)
+![](https://img.shields.io/badge/VScode-blue?style=for-the-badge&logo=visualstudiocode)![](https://img.shields.io/badge/neovim-2bc451?style=for-the-badge&logo=neovim)![](https://img.shields.io/badge/chrome-3366b7?style=for-the-badge&logo=google-chrome)![](https://img.shields.io/badge/Debian-red?style=for-the-badge&logo=debian)![](https://img.shields.io/badge/jetbrains-mono-000b1d?style=for-the-badge&logo=jetbrains)
 
 ![](https://img.shields.io/badge/docker-2CB7EC?style=for-the-badge&logo=docker)![](https://img.shields.io/badge/nginx-74C053?style=for-the-badge&logo=nginx)![](https://img.shields.io/badge/postgresql-3bc9db?style=for-the-badge&logo=postgresql)![](https://img.shields.io/badge/redis-ea6c56?style=for-the-badge&logo=redis)![](https://img.shields.io/badge/nextjs-3b4252?style=for-the-badge&logo=vercel)![](https://img.shields.io/badge/prisma-grey?style=for-the-badge&logo=prisma)
 
