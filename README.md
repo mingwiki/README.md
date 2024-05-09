@@ -1,4 +1,6 @@
+<!---
 ![mingwiki's GitHub stats](https://github-readme-stats.vercel.app/api?username=mingwiki&show_icons=true&theme=radical)
+-->
 
 ![](https://img.shields.io/badge/firefox-3366b7?style=for-the-badge&logo=firefox)![](https://img.shields.io/badge/archlinux-grey?style=for-the-badge&logo=archlinux)![](https://img.shields.io/badge/docker-lightblue?style=for-the-badge&logo=docker)![](https://img.shields.io/badge/nginx-2CB7EC?style=for-the-badge&logo=nginx)![](https://img.shields.io/badge/vscode-blue?style=for-the-badge&logo=visualstudiocode)
 
